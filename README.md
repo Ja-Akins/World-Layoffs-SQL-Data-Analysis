@@ -7,8 +7,8 @@ This project performs **Data Cleaning** and **Exploratory Data Analysis (EDA)** 
 **Tools Used:** SQL (MySQL), Workbench
 
 ## File Structure
-* `Data Cleaning.sql`: Contains the full SQL script used to clean the raw data.
-* `EDA.sql`: Contains the SQL script used for exploratory analysis and finding trends.
+* `Data_Cleaning.sql`: Contains the full SQL script used to clean the raw data.
+* `Exploratory_Data_Analysis.sql`: Contains the SQL script used for exploratory analysis and finding trends.
 
 ---
 
@@ -52,4 +52,5 @@ After cleaning, I performed an in-depth analysis to answer key business question
 * **Aggregations:** `GROUP BY`, `SUM`, `COUNT`.
 
 ---
+
 *Author: Benjamin Akingbade - www.linkedin.com/in/benjamin-akingbade-306022251*
