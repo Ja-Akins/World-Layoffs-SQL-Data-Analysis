@@ -3,7 +3,7 @@
 ## Project Overview
 This project performs **Data Cleaning** and **Exploratory Data Analysis (EDA)** on a dataset of global company layoffs from 2020 to 2023. The goal was to transform raw, messy data into a clean, usable format and then analyze it to uncover trends, outliers, and patterns in the economic landscape.
 
-**Dataset:** [World Layoffs 2022 on Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
+**Dataset:** [World Layoffs 2023 on Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 **Tools Used:** SQL (MySQL), Workbench
 
 ## File Structure
@@ -54,3 +54,4 @@ After cleaning, I performed an in-depth analysis to answer key business question
 ---
 
 *Author: Benjamin Akingbade - www.linkedin.com/in/benjamin-akingbade-306022251*
+
